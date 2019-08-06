@@ -1,0 +1,52 @@
+*Menu Item
+    Home Page
+    All-Cource
+    Service
+    Blog
+    Profile
+    Student Register
+    Login
+
+*Home Page
+    Baner
+        Slider
+            Some Message on the Slider + Button
+    Cource
+        Card with Small Infor of Cource
+            Cource Details
+                Cource Details Information
+                Only Students Can Comments Here
+
+    Advisors
+        Slider Advisors Image and Speach
+        Clients Comments
+
+    Immedeat Student Comments == Slider
+
+    Footer
+
+* All Cource
+    All the cource in here like a blog home Page and have a details page also for each cource.
+
+*Blog Page
+    Blog Post.
+        Menimum Two Image For Each Post
+        Author, Related Tag, Publish Time,
+    Post Details
+        All Information
+        Any One Can Comments Here
+            But Must Neded(Name, Email)
+
+*Profile
+    Home
+        Baner
+            Two part of this section(Picture and Some Information But Information can be on tht Picture)
+        Skill
+        Education
+        Redirect to Upwork
+    CV
+
+*Contace Page
+*Student Register Page
+*Login Page
+*404 Page
